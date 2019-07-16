@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test Assignment",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Rakesh B K",
+  "license": "ISC",
+  "homepage": "https:rakesh-b-k.github.io/apiusers",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
